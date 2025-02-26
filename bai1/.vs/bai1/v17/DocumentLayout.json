@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\m\u1EA1ng\\bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDF739C-BD07-4FA9-A1C2-A1F4E9D9B7F2}|..\\udp-client-test\\udp-client-test.csproj|d:\\m\u1EA1ng\\udp-client-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB3594A-B4D3-4EA6-BB35-7C9040315298}|..\\udp-server-test\\udp-server-test.csproj|d:\\m\u1EA1ng\\udp-server-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8309ADA-5749-452C-90DA-21729A3A94C1}|..\\client-test\\client-test.csproj|d:\\m\u1EA1ng\\client-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28482BE4-6008-49F7-BEA0-A0ECC0263E12}|..\\server-test\\server-test.csproj|d:\\m\u1EA1ng\\server-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7162F-A083-4C06-9050-0C9A8DEA7975}|bai1.csproj|d:\\m\u1EA1ng\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7162F-A083-4C06-9050-0C9A8DEA7975}|bai1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\udp-client-test\\Program.cs",
+              "RelativeDocumentMoniker": "..\\udp-client-test\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\udp-client-test\\Program.cs",
+              "RelativeToolTip": "..\\udp-client-test\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwD8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:09:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\udp-server-test\\Program.cs",
+              "RelativeDocumentMoniker": "..\\udp-server-test\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\udp-server-test\\Program.cs",
+              "RelativeToolTip": "..\\udp-server-test\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwFMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:08:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\client-test\\Program.cs",
+              "RelativeDocumentMoniker": "..\\client-test\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\client-test\\Program.cs",
+              "RelativeToolTip": "..\\client-test\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:45:22.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\server-test\\Program.cs",
+              "RelativeDocumentMoniker": "..\\server-test\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\server-test\\Program.cs",
+              "RelativeToolTip": "..\\server-test\\Program.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAkwHQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:18:01.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\bai1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:58:14.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

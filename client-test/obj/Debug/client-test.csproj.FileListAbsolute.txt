@@ -1,0 +1,7 @@
+D:\mạng\client-test\bin\Debug\client-test.exe.config
+D:\mạng\client-test\bin\Debug\client-test.exe
+D:\mạng\client-test\bin\Debug\client-test.pdb
+D:\mạng\client-test\obj\Debug\client-test.csproj.AssemblyReference.cache
+D:\mạng\client-test\obj\Debug\client-test.csproj.CoreCompileInputs.cache
+D:\mạng\client-test\obj\Debug\client-test.exe
+D:\mạng\client-test\obj\Debug\client-test.pdb

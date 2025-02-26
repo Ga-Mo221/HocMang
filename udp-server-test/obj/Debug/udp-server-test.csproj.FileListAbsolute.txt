@@ -1,0 +1,7 @@
+D:\mạng\udp-server-test\bin\Debug\udp-server-test.exe.config
+D:\mạng\udp-server-test\bin\Debug\udp-server-test.exe
+D:\mạng\udp-server-test\bin\Debug\udp-server-test.pdb
+D:\mạng\udp-server-test\obj\Debug\udp-server-test.csproj.AssemblyReference.cache
+D:\mạng\udp-server-test\obj\Debug\udp-server-test.csproj.CoreCompileInputs.cache
+D:\mạng\udp-server-test\obj\Debug\udp-server-test.exe
+D:\mạng\udp-server-test\obj\Debug\udp-server-test.pdb
