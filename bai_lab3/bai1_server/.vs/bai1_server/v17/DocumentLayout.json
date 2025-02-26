@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\m\u1EA1ng\\bai_lab3\\bai1_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0FD797-F3A7-49E5-876E-30FAFD5BD9E7}|..\\UDPSocket\\UDPSocket.csproj|d:\\m\u1EA1ng\\bai_lab3\\udpsocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0FD797-F3A7-49E5-876E-30FAFD5BD9E7}|..\\UDPSocket\\UDPSocket.csproj|d:\\m\u1EA1ng\\bai_lab3\\udpsocket\\udp-socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE71CB-9742-41A6-B1A8-4A099C496713}|..\\clinet_2\\clinet_2.csproj|d:\\m\u1EA1ng\\bai_lab3\\clinet_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77EE6C2E-2DC8-4D54-A127-7E869783E4D9}|..\\client_1\\client_1.csproj|d:\\m\u1EA1ng\\bai_lab3\\client_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209F8C65-F9AE-4F21-96AD-DEA608C64B90}|..\\server\\server.csproj|d:\\m\u1EA1ng\\bai_lab3\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867A2DE5-4E10-43CB-A072-B0BA4F03B6D7}|..\\bai1_clinet\\bai1_clinet.csproj|d:\\m\u1EA1ng\\bai_lab3\\bai1_clinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9D053D-638C-4A46-98EE-E089091E0CFC}|bai1_server.csproj|d:\\m\u1EA1ng\\bai_lab3\\bai1_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9D053D-638C-4A46-98EE-E089091E0CFC}|bai1_server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\bai_lab3\\clinet_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\clinet_2\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\bai_lab3\\clinet_2\\Program.cs",
+              "RelativeToolTip": "..\\clinet_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:32:15.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\bai_lab3\\client_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\client_1\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\bai_lab3\\client_1\\Program.cs",
+              "RelativeToolTip": "..\\client_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:32:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\bai_lab3\\server\\Program.cs",
+              "RelativeDocumentMoniker": "..\\server\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\bai_lab3\\server\\Program.cs",
+              "RelativeToolTip": "..\\server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:27:48.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "udp-socket.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\bai_lab3\\UDPSocket\\udp-socket.cs",
+              "RelativeDocumentMoniker": "..\\UDPSocket\\udp-socket.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\bai_lab3\\UDPSocket\\udp-socket.cs",
+              "RelativeToolTip": "..\\UDPSocket\\udp-socket.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:24:06.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\bai_lab3\\UDPSocket\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UDPSocket\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\bai_lab3\\UDPSocket\\Program.cs",
+              "RelativeToolTip": "..\\UDPSocket\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:21:15.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\bai_lab3\\bai1_clinet\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai1_clinet\\Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\bai_lab3\\bai1_clinet\\Program.cs",
+              "RelativeToolTip": "..\\bai1_clinet\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:19:54.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\m\u1EA1ng\\bai_lab3\\bai1_server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\m\u1EA1ng\\bai_lab3\\bai1_server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:18:59.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

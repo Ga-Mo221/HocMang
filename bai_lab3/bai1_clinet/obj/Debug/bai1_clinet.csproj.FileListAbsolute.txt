@@ -1,0 +1,7 @@
+D:\mạng\bai_lab3\bai1_clinet\bin\Debug\bai1_clinet.exe.config
+D:\mạng\bai_lab3\bai1_clinet\bin\Debug\bai1_clinet.exe
+D:\mạng\bai_lab3\bai1_clinet\bin\Debug\bai1_clinet.pdb
+D:\mạng\bai_lab3\bai1_clinet\obj\Debug\bai1_clinet.csproj.AssemblyReference.cache
+D:\mạng\bai_lab3\bai1_clinet\obj\Debug\bai1_clinet.csproj.CoreCompileInputs.cache
+D:\mạng\bai_lab3\bai1_clinet\obj\Debug\bai1_clinet.exe
+D:\mạng\bai_lab3\bai1_clinet\obj\Debug\bai1_clinet.pdb

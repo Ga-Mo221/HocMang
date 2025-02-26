@@ -1,0 +1,7 @@
+D:\mạng\bai_lab3\UDPSocket\bin\Debug\UDPSocket.exe.config
+D:\mạng\bai_lab3\UDPSocket\bin\Debug\UDPSocket.exe
+D:\mạng\bai_lab3\UDPSocket\bin\Debug\UDPSocket.pdb
+D:\mạng\bai_lab3\UDPSocket\obj\Debug\UDPSocket.csproj.AssemblyReference.cache
+D:\mạng\bai_lab3\UDPSocket\obj\Debug\UDPSocket.csproj.CoreCompileInputs.cache
+D:\mạng\bai_lab3\UDPSocket\obj\Debug\UDPSocket.exe
+D:\mạng\bai_lab3\UDPSocket\obj\Debug\UDPSocket.pdb
