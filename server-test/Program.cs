@@ -22,7 +22,7 @@ namespace server_test
             listenner.Listen(10);
 
             // In ra thông báo server đã khởi động cùng với địa chỉ và cổng của socket
-            Console.WriteLine($"server started at {listenner.LocalEndPoint}");
+            Console.WriteLine($"server dang khoi dong {listenner.LocalEndPoint}");
 
             // Vòng lặp vô hạn để liên tục chấp nhận kết nối từ client
             while (true)

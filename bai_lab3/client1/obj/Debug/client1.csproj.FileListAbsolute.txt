@@ -1,0 +1,7 @@
+D:\HocMang\bai_lab3\client1\bin\Debug\client1.exe.config
+D:\HocMang\bai_lab3\client1\bin\Debug\client1.exe
+D:\HocMang\bai_lab3\client1\bin\Debug\client1.pdb
+D:\HocMang\bai_lab3\client1\obj\Debug\client1.csproj.AssemblyReference.cache
+D:\HocMang\bai_lab3\client1\obj\Debug\client1.csproj.CoreCompileInputs.cache
+D:\HocMang\bai_lab3\client1\obj\Debug\client1.exe
+D:\HocMang\bai_lab3\client1\obj\Debug\client1.pdb

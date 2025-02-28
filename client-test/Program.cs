@@ -13,7 +13,7 @@ namespace client_test
             Console.Title = "Em là đệ của anh";
 
             // Yêu cầu người dùng nhập địa chỉ IP của server (ở đây có thể nhập bằng tay)
-            Console.WriteLine("Server ip: ");
+            Console.WriteLine("Server ip: 127.0.0.1");
 
             // Nếu muốn nhập địa chỉ IP từ bàn phím, có thể sử dụng dòng sau:
             // var address = IPAddress.Parse(Console.ReadLine());

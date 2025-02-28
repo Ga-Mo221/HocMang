@@ -5,3 +5,10 @@ D:\mạng\server-test\obj\Debug\server-test.csproj.AssemblyReference.cache
 D:\mạng\server-test\obj\Debug\server-test.csproj.CoreCompileInputs.cache
 D:\mạng\server-test\obj\Debug\server-test.exe
 D:\mạng\server-test\obj\Debug\server-test.pdb
+D:\HocMang\server-test\bin\Debug\server-test.exe.config
+D:\HocMang\server-test\bin\Debug\server-test.exe
+D:\HocMang\server-test\bin\Debug\server-test.pdb
+D:\HocMang\server-test\obj\Debug\server-test.csproj.AssemblyReference.cache
+D:\HocMang\server-test\obj\Debug\server-test.csproj.CoreCompileInputs.cache
+D:\HocMang\server-test\obj\Debug\server-test.exe
+D:\HocMang\server-test\obj\Debug\server-test.pdb

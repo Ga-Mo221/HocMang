@@ -5,3 +5,10 @@ D:\mạng\bai_lab3\bai1_server\bin\Debug\bai1_server.exe
 D:\mạng\bai_lab3\bai1_server\bin\Debug\bai1_server.pdb
 D:\mạng\bai_lab3\bai1_server\obj\Debug\bai1_server.exe
 D:\mạng\bai_lab3\bai1_server\obj\Debug\bai1_server.pdb
+D:\HocMang\bai_lab3\bai1_server\bin\Debug\bai1_server.exe.config
+D:\HocMang\bai_lab3\bai1_server\bin\Debug\bai1_server.exe
+D:\HocMang\bai_lab3\bai1_server\bin\Debug\bai1_server.pdb
+D:\HocMang\bai_lab3\bai1_server\obj\Debug\bai1_server.csproj.AssemblyReference.cache
+D:\HocMang\bai_lab3\bai1_server\obj\Debug\bai1_server.csproj.CoreCompileInputs.cache
+D:\HocMang\bai_lab3\bai1_server\obj\Debug\bai1_server.exe
+D:\HocMang\bai_lab3\bai1_server\obj\Debug\bai1_server.pdb
